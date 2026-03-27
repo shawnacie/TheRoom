@@ -1,21 +1,28 @@
-# TheRoom (iOS)
+# TheRoom – iOS Booking App
 
-##
-This is a simple iOS room booking application built using SwiftUI. Users can book and cancle room reservations through a clean and intuitive interface.
+## Overview
+TheRoom is a simple iOS application that allows users to view, book, and manage room reservations. The goal of this project is to demonstrate mobile development skills using SwiftUI and UIKit.
 
 ## Features
--View available rooms
--Book a room
--Cancel bookings
--Simple and responsive UI
+- View available rooms
+- Book a room
+- Cancel reservations
+- Clean and intuitive user interface
 
-##Tech Stack
--Swift
--SwiftUI
--Xcode
+## Tech Stack
+- Swift
+- SwiftUI
+- UIKit
+- Xcode
 
 ## Screenshots
-(Add your screenshots here)
+(Add screenshots here)
+
+## What I Learned
+- Building iOS UI with SwiftUI
+- Managing state in mobile applications
+- Structuring a real-world app project
 
 ## Author
-Shawnacie Anderson 
+Shawnacie Anderson  
+https://github.com/shawnacie
